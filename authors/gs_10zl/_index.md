@@ -4,7 +4,7 @@ name: Liang Zeng
 
 # Username (this should match the folder name)
 authors:
-- gs_zl
+- gs_10zl
 
 # Is this the primary user of the site?
 superuser: false
