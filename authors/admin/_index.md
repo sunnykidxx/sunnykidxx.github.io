@@ -18,13 +18,14 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include social commerce, big data, social network and artificial Intelligence.
+bio: My research interests include Human-Computer Interaction, Artificial Intelligence, Data Science, Social Commerce, and Social Network.
 
 interests:
-- Social Commerce
-- Big Data
-- Social Network
+- Human-Computer Interaction
 - Artificial Intelligence
+- Data Science
+- Social Commerce
+- Social Network
 
 education:
   courses:
